@@ -8,4 +8,4 @@ During this internship, I learnt the following -
 2. I explored the J.P. Morgan Data visualisation component- Perspective.
 3. Learnt front end web development. 
 
-![alt text](https://drive.google.com/file/d/14h4Hh_MxY2zwmO0Ms3KBAmXPWGeBK2Aj/view?usp=sharing)
+![Alt text](jpmorgan.png?raw=true "Certificate")
